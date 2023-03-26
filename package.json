@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/Guillermoizalde/Async"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Guillermoizalde/Async/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/Guillermoizalde/Async/blob/main/README.md"
 }
